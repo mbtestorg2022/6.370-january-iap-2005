@@ -6,13 +6,104 @@ uid: bc5445d1-c167-b35b-a8f6-4c5da7e979aa
 
 As explained in the [syllabus]({{< baseurl >}}/pages/syllabus), 6.370 does not have a regular class schedule. However, there are several deadlines to meet as teams complete their project.
 
-| day #  | Tasks |
-| --- | --- |
-| Day 1 | Contest software and complete specs released, Contest begins |
-| Day 3 | Classroom Session 1 (attendance optional) |
-| Day 10 | Classroom Session 2 (attendance optional) |
-| Day 16 | Player submission for Seeding Tournament due online by 11:59 pm |
-| Day 17 | Seeding Tournament (attendance optional) |
-| Day 25 |  {{< br >}}{{< br >}} Final Player submission due online by 6:00 am {{< br >}}{{< br >}} Preliminary Tournament (attendance optional) {{< br >}}{{< br >}}  |
-| Day 26 |  {{< br >}}{{< br >}} Details will be sent to finalist teams {{< br >}}{{< br >}} Finalists Celebration for teams entering final tournament {{< br >}}{{< br >}} Attendance is mandatory for all finalists {{< br >}}{{< br >}}  |
-| Day 27 | Final Competition (attendance mandatory for all teams!)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+day # 
+{{< thclose >}}
+{{< thopen >}}
+Tasks
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Day 1
+{{< tdclose >}}
+{{< tdopen >}}
+Contest software and complete specs released, Contest begins
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Day 3
+{{< tdclose >}}
+{{< tdopen >}}
+Classroom Session 1 (attendance optional)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Day 10
+{{< tdclose >}}
+{{< tdopen >}}
+Classroom Session 2 (attendance optional)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Day 16
+{{< tdclose >}}
+{{< tdopen >}}
+Player submission for Seeding Tournament due online by 11:59 pm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Day 17
+{{< tdclose >}}
+{{< tdopen >}}
+Seeding Tournament (attendance optional)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Day 25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final Player submission due online by 6:00 am
+
+Preliminary Tournament (attendance optional)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Day 26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Details will be sent to finalist teams
+
+Finalists Celebration for teams entering final tournament
+
+Attendance is mandatory for all finalists
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Day 27
+{{< tdclose >}}
+{{< tdopen >}}
+Final Competition (attendance mandatory for all teams!)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
